@@ -1,0 +1,34 @@
+body{
+    background-color: beige;
+}
+.name{
+    background-color: white;
+    text-align: center;
+    height: 50px;
+    width: auto;
+}
+.nav{
+    background-color: white;
+    height: 50px;
+    width: auto;
+}
+.nav-item{
+    width: 33%;
+}
+.forms{
+    background-color: white;
+    text-align: center;
+    clear: both;
+}
+.EmailSender{
+    background-color: white;
+    margin-top: 50px;
+}
+.Paragraph{
+    background-color: snow;
+    float: left;
+    word-wrap: inherit;
+}
+.col-md-12{
+    float: center;
+}
